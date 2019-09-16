@@ -1,5 +1,3 @@
-package java;
-
 /**
  * 类名 HelloWorld
  * 描述 helloworld
